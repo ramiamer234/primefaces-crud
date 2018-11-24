@@ -1,4 +1,4 @@
-package com.algaworks.erp.util;
+package util;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

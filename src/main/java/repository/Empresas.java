@@ -1,4 +1,4 @@
-package com.algaworks.erp.repository;
+package repository;
 
 import java.io.Serializable;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 import javax.inject.Inject;
 import javax.persistence.EntityManager;
 
-import com.algaworks.erp.model.Empresa;
+import model.Empresa;
 
 public class Empresas implements Serializable {
 
